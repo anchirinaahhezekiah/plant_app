@@ -38,11 +38,11 @@ Welcome to the **Plant Lovers App** – a Flutter-based app designed for plant e
 Here are some screenshots of the app to give you a glimpse of its features:  
 
 ### Home Page  
-![Home Page](screenshots/home_page.png)  
+![Home Page](assets/images/screenshots/home.jpg)  
 *Browse through a variety of plants and discover new species.*  
 
 ### Favorites Section  
-![Favorites Section](screenshots/favorites_page.png)  
+![Favorites Section](assets/images/screenshots/favorite_page.jpg)  
 *Save and access your favorite plants in one place.*  
 
 ### Scan Page  
@@ -54,7 +54,7 @@ Here are some screenshots of the app to give you a glimpse of its features:
 *Add plants to your cart for future reference or purchase.*  
 
 ### Profile Page  
-![Profile Page](screenshots/profile_page.png)  
+![Profile Page](assets/images/screenshots/profile.jpg)  
 *Manage your profile and track your plant collection.*  
 
 ### Login Page  
