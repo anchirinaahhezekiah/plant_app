@@ -45,29 +45,11 @@ Here are some screenshots of the app to give you a glimpse of its features:
 ![Favorites Section](assets/images/screenshots/favorite_page.jpg)  
 *Save and access your favorite plants in one place.*  
 
-### Scan Page  
-![Scan Page](screenshots/scan_page.png)  
-*Identify plants using the app's scanning feature.*  
-
-### Add to Cart  
-![Add to Cart](screenshots/cart_page.png)  
-*Add plants to your cart for future reference or purchase.*  
 
 ### Profile Page  
 ![Profile Page](assets/images/screenshots/profile.jpg)  
 *Manage your profile and track your plant collection.*  
 
-### Login Page  
-![Login Page](screenshots/login_page.png)  
-*Securely log in to your account.*  
-
-### Sign Up Page  
-![Sign Up Page](screenshots/signup_page.png)  
-*Create a new account to start your plant-loving journey.*  
-
-### Forgot Password Page  
-![Forgot Password Page](screenshots/forgot_password_page.png)  
-*Reset your password easily if you forget it.*  
 
 ---
 
