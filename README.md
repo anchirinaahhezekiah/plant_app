@@ -73,7 +73,6 @@ This project was developed with the help of tutorial videos. It’s a great reso
 - **UI/UX Design**: Creating beautiful and responsive layouts.  
 - **Camera Integration**: For the plant scanning feature.  
 
-If you're following a similar tutorial, this project can serve as a reference or a starting point for your own app!  
 
 ---
 
@@ -129,9 +128,7 @@ Contributions are welcome! If you'd like to improve this project, feel free to:
 
 ## Acknowledgments 🙏  
 
-A big thank you to the creators of the tutorial videos that helped me build this project! If you're interested in learning Flutter, I highly recommend checking out tutorials on platforms like YouTube, Udemy, or Coursera.  
+A big thank you to the creators of the tutorial videos that helped me build this project!
 
 ---
 
-
-Happy coding, and may your love for plants (and Flutter) continue to grow! 🌿💻
